@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Name: Expense_tracker
 
-## Getting Started
+## live Site Link: https://hello-world-beae4.web.app/
 
-First, run the development server:
+# Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- It is a Personal web app.
+- Users can register or sign in using their Name, Birthdate, and profile photo.
+- On the homepage, User can see your Dashboard.
+- From the homepage, User can Add their income and Expenses.
+- User can delete their income and Expenses.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Loading Page
+  ![image](https://github.com/SayedRafiadHossan/Expense-Tracker-/assets/78840816/b94bd9f6-e252-4486-80da-eca17900385c)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# Dashboard
+  ![image](https://github.com/SayedRafiadHossan/Expense-Tracker-/assets/78840816/0f2f2164-7085-420a-9275-94eb4176f8d4)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Income Page
+  ![image](https://github.com/SayedRafiadHossan/Expense-Tracker-/assets/78840816/641078eb-9924-4445-afa4-f74c426feca7)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Expenses Page
+  ![image](https://github.com/SayedRafiadHossan/Expense-Tracker-/assets/78840816/4a238f43-89b4-46b8-a4ee-6ec6053a6a45)
